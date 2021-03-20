@@ -1,4 +1,4 @@
-# expanding-cards
+# split-landing-page
 
 ## HTML/CSS/JS sample projects.
 
